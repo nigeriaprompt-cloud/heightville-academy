@@ -11,9 +11,10 @@ export const site = {
   mapQuery: "Tunbo Oniya Avenue, Off Ife Road, Akure, Ondo State, Nigeria",
 };
 export const nav = [
-  ["Home", "/"], ["About", "/about"], ["Academics", "/academics"], ["Programs", "/programs"],
-  ["Admissions", "/admissions"], ["Facilities", "/facilities"], ["Gallery", "/gallery"],
-  ["News", "/news"], ["Learning", "/learning"], ["Play & Learn", "/play"], ["Contact", "/contact"],
+  ["Home", "/"], ["About", "/about"], ["Academics", "/academics"], ["Learning", "/learning"], ["Play & Learn", "/play"],
+   ["Gallery", "/gallery"], ["Programs", "/programs"],
+  ["Admissions", "/admissions"], ["Facilities", "/facilities"],
+   ["Contact", "/contact"],
 ];
 // All taken from the school's brief history document.
 export const facts = {
