@@ -26,7 +26,7 @@ export const facts = {
   clubs: ["Quiz and Debate Club", "Spelling Bee Club", "Writers’ Club"],
   timeline: [
     ["2019", "Heightville Academy was established on 16th September 2019. The Primary Arm began the 2019/2020 session with 56 pupils."],
-    ["2021", "The Secondary Arm commenced on 20 September 2021 with 27 students in JSS 1, initially sharing classrooms with the Primary Arm."],
+    ["2021", "The Secondary Arm commenced on 20th September 2021 with 27 students in JSS 1, initially sharing classrooms with the Primary Arm."],
     ["2023", "The Secondary Arm moved to its present modern, spacious and conducive environment."],
   ],
 };
