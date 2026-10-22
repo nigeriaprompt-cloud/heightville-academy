@@ -3,7 +3,7 @@ export const site = {
   name: "Heightville Academy",
   motto: "Raising Generation of Achievers",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://heightville-academy.vercel.app",
-  address: ["Tunbo Oniya Avenue,", "Off Ife Road,", "Akure, Ondo State, Nigeria."],
+  address: ["Tunbo Oniya Avenue,", "Off Irese Road,", "Akure, Ondo State, Nigeria."],
   whatsapp: "08150752424",
   whatsappLink: "https://wa.me/2348150752424",
   phone: "08107492222",
