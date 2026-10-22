@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="hero-overlay" />
       <div className="wrap hero-body fade-up">
         <p className="eyebrow">Heightville Academy · Akure, Ondo State</p>
-        <h1 className="serif">Raising a Generation of Achievers</h1>
+        <h1 className="serif">Raising Generation of Achievers</h1>
         <span className="rule" aria-hidden="true" />
         <p className="hero-sub">A co-educational Primary and Secondary school committed to academic excellence, moral discipline and character development.</p>
         <div className="actions">
